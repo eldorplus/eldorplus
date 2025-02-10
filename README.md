@@ -1,4 +1,4 @@
-<h1 align="center"> Hi👋 I'm Patrick LUZOLOp</h1>
+<h1 align="center"> Hi👋 I'm Patrick LUZOLO</h1>
 <h3 align="center">A passionate DevOps Engineer from France</h3>
 
 - 🔭 I’m currently working on **DevOps Engineer**
@@ -21,3 +21,19 @@
 <!-- 
 https://raw.githubusercontent.com/cuongtop4598/cuongtop4598/main/README.md
 -->
+<!--
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,cs,haskell,arduino,js,html,css,c,unity,git,linux" />
+  </a>
+</p>
+-->
+
+<h3 align="left">GitHub Stats</h3>
+
+<a href="https://github.com/eldorplus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldorplus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <a href="http://www.github.com/Mxt3usz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eldorplus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<h3 align="left">Top Repository</h3>
+
+<div width="100%" align="center"><a href="https://github.com/eldorplus/proxy-switchy-omega" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eldorplus&repo=proxy-switchy-omega&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
